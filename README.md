@@ -10,5 +10,7 @@ Real-time Sync: Journal entries are synced across devices.
 
 # Technologies Used
 Frontend: XML layout
+
 Backend: Firebase (Authentication, Cloud Storage)
+
 Database: Firebase Firestore (Optional for storing metadata about journal entries)
